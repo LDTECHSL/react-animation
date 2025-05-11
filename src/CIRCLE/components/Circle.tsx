@@ -27,6 +27,7 @@ export default function Circle() {
                 ))}
             </div>
             <div className="content">
+                <h1 data-content="">LD TECH SL YOUTUBE</h1>
                 <div className="model"></div>
             </div>
         </div>

@@ -7,7 +7,7 @@
     text-align: center;
     overflow: hidden;
     position: relative;
-    background: linear-gradient(90deg, rgb(10, 10, 10) 0%, rgba(1, 37, 71, 0.84) 50%,rgba(0, 0, 0, 0.84) 100%);
+    background-color: white;
 }
 .banner .slider{
     position: absolute;
@@ -57,9 +57,9 @@
 }
 .banner .content h1{
     font-family: 'ICA Rubrik';
-    font-size: 16em;
+    font-size: 14em;
     line-height: 1em;
-    color: #25283B;
+    color: #c7c5c5b4;
     position: relative;
 }
 .banner .content h1::after{
