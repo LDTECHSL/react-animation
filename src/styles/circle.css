@@ -7,6 +7,7 @@
     text-align: center;
     overflow: hidden;
     position: relative;
+    background: linear-gradient(90deg, rgb(10, 10, 10) 0%, rgba(1, 37, 71, 0.84) 50%,rgba(0, 0, 0, 0.84) 100%);
 }
 .banner .slider{
     position: absolute;
