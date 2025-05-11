@@ -90,7 +90,7 @@ export default function Slider() {
                         <div className="item" key={`slide-${idx}`}>
                             <img src={img} />
                             <div className="content">
-                                <div className="author">LUNDEV</div>
+                                <div className="author">LD TECH SL</div>
                                 <div className="title">DESIGN SLIDER</div>
                                 <div className="topic">ANIMAL</div>
                                 <div className="des">
