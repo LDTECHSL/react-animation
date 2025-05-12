@@ -4,6 +4,7 @@ import i1 from "../images/img1.jpg";
 import i2 from "../images/img2.jpg";
 import i3 from "../images/img3.jpg";
 import i4 from "../images/img4.jpg";
+import Navbar from "../../NAVBAR/Navbar";
 
 const images = [i1, i2, i3, i4];
 
@@ -76,13 +77,7 @@ export default function Slider() {
 
     return (
         <>
-            <header>
-                <nav>
-                    <a href="">Home</a>
-                    <a href="">Contacts</a>
-                    <a href="">Info</a>
-                </nav>
-            </header>
+            <Navbar/>
 
             <div className="carousel" ref={carouselRef}>
                 <div className="list" ref={listRef}>
